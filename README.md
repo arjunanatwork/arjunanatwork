@@ -24,27 +24,17 @@ Here are some ideas to get you started:
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachegroovy/4298B8" height="40" alt="groovy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
-
+```javascript
+const arjunan = {
+    technologies: {
+        backEnd:  ["Java", "Groovy", "NodeJS", "Spring (MVC, Boot, Security, Batch)", "Grails", "Hibernate"],
+        frontEnd: ["JavaScript(ES6+)", "TypeScript", "ReactJS", "Angular 2+", "AngularJS", "Ionic", "jQuery", "Bootstrap", "HTML5", "SASS", "CSS"],
+        infraAndDevOps: ["Azure DevOps", "Kubernetes", "Puppet", "Docker", "GoCD", "Jenkins", "Git", "WebLogic Administration", "Oracle API Gateway","IBM Connect"],
+        databases: ["Oracle SQL", "Netezza", "Elasticsearch", "Redis", "Couchbase", "MongoDB", "Firebase"]
+    },
+    architecture: ["Microservice Architecture", "Progressive Web Applications", "Single Page Applications"],
+};
+```
 ###
 
 <h3 align="left">📊 Weekly development breakdown </h3>
