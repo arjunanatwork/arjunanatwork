@@ -79,7 +79,7 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 
 <h3 align="left">🔥   My Leetcode Stats :</h3>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/arjunanatwork?theme=dark&font=Roboto&ext=heatmap" alt="streak graph"  />
+  <img src="https://leetcard.jacoblin.cool/arjunanatwork?theme=dark&font=Roboto&ext=heatmap" height="210" alt="streak graph"  />
 </div>
 
 ###
