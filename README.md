@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">- 🔭 Software Developer living near Dubai, UAE. ☀️<br>- 🌱  I’m currently learning Python<br>- 😄 Pronouns: He / Him <br>- 📫 How to reach me: <a href="https://www.linkedin.com/in/arjunan-ravi/" target="_blank">LinkedIn</a><br>-⚡ Fun fact: I ❤️ playing Video Games and Comics</p>
+<p align="left">- 🔭 I'm a Software Developer living near Dubai, UAE. ☀️<br>- 🌱  I’m currently learning Python<br>- 📫 How to reach me: <a href="https://www.linkedin.com/in/arjunan-ravi/" target="_blank">LinkedIn</a><br>-⚡ Fun fact: I ❤️ playing Video Games and Comics</p>
 
 ###
 
