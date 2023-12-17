@@ -42,10 +42,6 @@ const arjunan = {
 ###
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 18.3 kB Used in GitHub's Storage 
@@ -94,7 +90,7 @@ CSS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arjunanatwork/arjunanatwork/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2023 13:05:41 UTC
+ Last Updated on 17/12/2023 13:13:02 UTC
 <!--END_SECTION:waka-->
 
 ###
