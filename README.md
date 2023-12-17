@@ -42,43 +42,22 @@ const arjunan = {
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2055%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 18.3 kB Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2023
+> 🏆 29 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 8 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                599 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-🌆 Daytime                1815 commits        █████████░░░░░░░░░░░░░░░░   34.53 % 
-🌃 Evening                2421 commits        ████████████░░░░░░░░░░░░░   46.06 % 
-🌙 Night                  421 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   511 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Tuesday                  775 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Wednesday                412 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Thursday                 1525 commits        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-Friday                   652 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Saturday                 594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Sunday                   787 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -115,7 +94,7 @@ CSS                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arjunanatwork/arjunanatwork/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2023 12:56:59 UTC
+ Last Updated on 17/12/2023 13:05:41 UTC
 <!--END_SECTION:waka-->
 
 ###
