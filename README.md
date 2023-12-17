@@ -48,6 +48,13 @@ Here are some ideas to get you started:
 ###
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   1 hr 41 mins    ████████████████████████▓   99.08 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
+
 <!--END_SECTION:waka-->
 
 ###
