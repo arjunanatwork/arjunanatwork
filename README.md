@@ -63,7 +63,7 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Github Stats :</h3>
 
 ###
 
@@ -71,6 +71,15 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
   <img src="https://github-readme-stats.vercel.app/api?username=arjunanatwork&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunanatwork&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=arjunanatwork&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+###
+
+<h3 align="left">🔥   My Leetcode Stats :</h3>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/arjunanatwork?theme=dark&font=Roboto&ext=heatmap" alt="streak graph"  />
 </div>
 
 ###
