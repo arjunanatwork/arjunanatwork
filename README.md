@@ -46,6 +46,8 @@ const arjunan = {
 
 > 📦 18.7 kB Used in GitHub's Storage 
  > 
+> 🏆 52 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -58,16 +60,17 @@ const arjunan = {
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     4 mins              ███████████████████████░░   92.51 % 
+XML                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+microservice-project     4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +90,7 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arjunanatwork/arjunanatwork/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2024 18:35:42 UTC
+ Last Updated on 27/02/2024 18:38:24 UTC
 <!--END_SECTION:waka-->
 
 ###
