@@ -58,16 +58,18 @@ const arjunan = {
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     28 mins             ██████████████████░░░░░░░   72.22 % 
+Java                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+microservice-project     39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +89,7 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arjunanatwork/arjunanatwork/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2024 18:38:16 UTC
+ Last Updated on 09/04/2024 18:36:42 UTC
 <!--END_SECTION:waka-->
 
 ###
