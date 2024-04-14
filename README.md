@@ -44,7 +44,7 @@ const arjunan = {
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 18.8 kB Used in GitHub's Storage 
+> 📦 19.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -52,27 +52,6 @@ const arjunan = {
  > 
 > 🔑 0 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-YAML                     1 hr 50 mins        ███████████████████████░░   90.83 % 
-Java                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-
-🔥 Editors: 
-VS Code                  1 hr 13 mins        ███████████████░░░░░░░░░░   60.32 % 
-Intellijidea             48 mins             ██████████░░░░░░░░░░░░░░░   39.68 % 
-
-🐱‍💻 Projects: 
-microservice-project     2 hrs 1 min         █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -90,7 +69,7 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arjunanatwork/arjunanatwork/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2024 18:36:07 UTC
+ Last Updated on 14/04/2024 22:58:37 UTC
 <!--END_SECTION:waka-->
 
 ###
