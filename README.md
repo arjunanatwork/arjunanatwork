@@ -46,8 +46,6 @@ const arjunan = {
 
 > 📦 20.2 kB Used in GitHub's Storage 
  > 
-> 🏆 124 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -89,7 +87,7 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/arjunanatwork/arjunanatwork/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2024 18:39:08 UTC
+ Last Updated on 04/08/2024 18:38:34 UTC
 <!--END_SECTION:waka-->
 
 ###
