@@ -41,7 +41,7 @@ const arjunan = {
 
 ###
 
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.wakatime.svg)
 
 ###
 
